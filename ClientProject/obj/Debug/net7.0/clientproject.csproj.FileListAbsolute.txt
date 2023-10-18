@@ -1,0 +1,14 @@
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\bin\Debug\net7.0\clientproject.exe
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\bin\Debug\net7.0\clientproject.deps.json
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\bin\Debug\net7.0\clientproject.runtimeconfig.json
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\bin\Debug\net7.0\clientproject.dll
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\bin\Debug\net7.0\clientproject.pdb
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\clientproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\clientproject.AssemblyInfoInputs.cache
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\clientproject.AssemblyInfo.cs
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\clientproject.csproj.CoreCompileInputs.cache
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\clientproject.dll
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\refint\clientproject.dll
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\clientproject.pdb
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\clientproject.genruntimeconfig.cache
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ClientProject\obj\Debug\net7.0\ref\clientproject.dll

@@ -1,0 +1,11 @@
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\bin\Debug\net7.0\ServerProject.deps.json
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\bin\Debug\net7.0\ServerProject.dll
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\bin\Debug\net7.0\ServerProject.pdb
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\ServerProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\ServerProject.AssemblyInfoInputs.cache
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\ServerProject.AssemblyInfo.cs
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\ServerProject.csproj.CoreCompileInputs.cache
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\ServerProject.dll
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\refint\ServerProject.dll
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\ServerProject.pdb
+E:\python workplace\Projects\dotNet_Remoting_Project_02\ServerProject\obj\Debug\net7.0\ref\ServerProject.dll
